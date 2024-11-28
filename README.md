@@ -31,13 +31,21 @@
 
 ## 作品リスト
 
-Jungle arena 
+### Jungle arena 
+
+開発環境：Unity
+
+開発期間：2024/10/11-11/8
 
 
+### Complement
 
-complement
+開発環境：GDevelop 5
+
+開発期間：2024/8/26-28
 
 
 
 ## 連絡先]
+メール<engtrinhduyam@gmail.com>
 
